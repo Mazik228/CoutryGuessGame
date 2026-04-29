@@ -1,10 +1,4 @@
-* **Inheritance & Polymorphism:** [Your explanation here]
-* **ArrayList:** [Your explanation here]
-* **HashMap:** [Your explanation here]
-* **HashSet:** [Your explanation here]
-* **Stack:** [Your explanation here]
-* **LinkedList:** [Your explanation here]
-* **Queue:** [Your explanation here]
+
 
 ## How to Compile and Run
 
